@@ -1,0 +1,95 @@
+C:\Projects\DevFramework-4\DevFramework 4\DevFramework\DevFramework.Northwind.MvcAngularUI\obj\Debug\DevFramework.Northwind.MvcAngularUI.csprojResolveAssemblyReference.cache
+C:\Projects\DevFramework-4\DevFramework 4\DevFramework\DevFramework.Northwind.MvcAngularUI\bin\roslyn\csc.exe
+C:\Projects\DevFramework-4\DevFramework 4\DevFramework\DevFramework.Northwind.MvcAngularUI\bin\roslyn\csc.exe.config
+C:\Projects\DevFramework-4\DevFramework 4\DevFramework\DevFramework.Northwind.MvcAngularUI\bin\roslyn\csc.rsp
+C:\Projects\DevFramework-4\DevFramework 4\DevFramework\DevFramework.Northwind.MvcAngularUI\bin\roslyn\csi.exe
+C:\Projects\DevFramework-4\DevFramework 4\DevFramework\DevFramework.Northwind.MvcAngularUI\bin\roslyn\csi.rsp
+C:\Projects\DevFramework-4\DevFramework 4\DevFramework\DevFramework.Northwind.MvcAngularUI\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Projects\DevFramework-4\DevFramework 4\DevFramework\DevFramework.Northwind.MvcAngularUI\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Projects\DevFramework-4\DevFramework 4\DevFramework\DevFramework.Northwind.MvcAngularUI\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Projects\DevFramework-4\DevFramework 4\DevFramework\DevFramework.Northwind.MvcAngularUI\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Projects\DevFramework-4\DevFramework 4\DevFramework\DevFramework.Northwind.MvcAngularUI\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Projects\DevFramework-4\DevFramework 4\DevFramework\DevFramework.Northwind.MvcAngularUI\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Projects\DevFramework-4\DevFramework 4\DevFramework\DevFramework.Northwind.MvcAngularUI\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Projects\DevFramework-4\DevFramework 4\DevFramework\DevFramework.Northwind.MvcAngularUI\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Projects\DevFramework-4\DevFramework 4\DevFramework\DevFramework.Northwind.MvcAngularUI\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Projects\DevFramework-4\DevFramework 4\DevFramework\DevFramework.Northwind.MvcAngularUI\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Projects\DevFramework-4\DevFramework 4\DevFramework\DevFramework.Northwind.MvcAngularUI\bin\roslyn\System.AppContext.dll
+C:\Projects\DevFramework-4\DevFramework 4\DevFramework\DevFramework.Northwind.MvcAngularUI\bin\roslyn\System.Collections.Immutable.dll
+C:\Projects\DevFramework-4\DevFramework 4\DevFramework\DevFramework.Northwind.MvcAngularUI\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Projects\DevFramework-4\DevFramework 4\DevFramework\DevFramework.Northwind.MvcAngularUI\bin\roslyn\System.IO.FileSystem.dll
+C:\Projects\DevFramework-4\DevFramework 4\DevFramework\DevFramework.Northwind.MvcAngularUI\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Projects\DevFramework-4\DevFramework 4\DevFramework\DevFramework.Northwind.MvcAngularUI\bin\roslyn\System.Reflection.Metadata.dll
+C:\Projects\DevFramework-4\DevFramework 4\DevFramework\DevFramework.Northwind.MvcAngularUI\bin\roslyn\vbc.exe
+C:\Projects\DevFramework-4\DevFramework 4\DevFramework\DevFramework.Northwind.MvcAngularUI\bin\roslyn\vbc.exe.config
+C:\Projects\DevFramework-4\DevFramework 4\DevFramework\DevFramework.Northwind.MvcAngularUI\bin\roslyn\vbc.rsp
+C:\Projects\DevFramework-4\DevFramework 4\DevFramework\DevFramework.Northwind.MvcAngularUI\bin\roslyn\VBCSCompiler.exe
+C:\Projects\DevFramework-4\DevFramework 4\DevFramework\DevFramework.Northwind.MvcAngularUI\bin\roslyn\VBCSCompiler.exe.config
+C:\Projects\DevFramework-4\DevFramework 4\DevFramework\DevFramework.Northwind.MvcAngularUI\bin\DevFramework.Northwind.MvcAngularUI.dll.config
+C:\Projects\DevFramework-4\DevFramework 4\DevFramework\DevFramework.Northwind.MvcAngularUI\bin\DevFramework.Northwind.MvcAngularUI.dll
+C:\Projects\DevFramework-4\DevFramework 4\DevFramework\DevFramework.Northwind.MvcAngularUI\bin\DevFramework.Northwind.MvcAngularUI.pdb
+C:\Projects\DevFramework-4\DevFramework 4\DevFramework\DevFramework.Northwind.MvcAngularUI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Projects\DevFramework-4\DevFramework 4\DevFramework\DevFramework.Northwind.MvcAngularUI\bin\Microsoft.Web.Infrastructure.dll
+C:\Projects\DevFramework-4\DevFramework 4\DevFramework\DevFramework.Northwind.MvcAngularUI\bin\System.Web.Helpers.dll
+C:\Projects\DevFramework-4\DevFramework 4\DevFramework\DevFramework.Northwind.MvcAngularUI\bin\System.Web.Mvc.dll
+C:\Projects\DevFramework-4\DevFramework 4\DevFramework\DevFramework.Northwind.MvcAngularUI\bin\System.Web.Razor.dll
+C:\Projects\DevFramework-4\DevFramework 4\DevFramework\DevFramework.Northwind.MvcAngularUI\bin\System.Web.Webpages.Deployment.dll
+C:\Projects\DevFramework-4\DevFramework 4\DevFramework\DevFramework.Northwind.MvcAngularUI\bin\System.Web.Webpages.dll
+C:\Projects\DevFramework-4\DevFramework 4\DevFramework\DevFramework.Northwind.MvcAngularUI\bin\System.Web.Webpages.Razor.dll
+C:\Projects\DevFramework-4\DevFramework 4\DevFramework\DevFramework.Northwind.MvcAngularUI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Projects\DevFramework-4\DevFramework 4\DevFramework\DevFramework.Northwind.MvcAngularUI\bin\System.Web.Razor.xml
+C:\Projects\DevFramework-4\DevFramework 4\DevFramework\DevFramework.Northwind.MvcAngularUI\bin\System.Web.Webpages.xml
+C:\Projects\DevFramework-4\DevFramework 4\DevFramework\DevFramework.Northwind.MvcAngularUI\bin\System.Web.Webpages.Deployment.xml
+C:\Projects\DevFramework-4\DevFramework 4\DevFramework\DevFramework.Northwind.MvcAngularUI\bin\System.Web.Webpages.Razor.xml
+C:\Projects\DevFramework-4\DevFramework 4\DevFramework\DevFramework.Northwind.MvcAngularUI\bin\System.Web.Helpers.xml
+C:\Projects\DevFramework-4\DevFramework 4\DevFramework\DevFramework.Northwind.MvcAngularUI\bin\System.Web.Mvc.xml
+C:\Projects\DevFramework-4\DevFramework 4\DevFramework\DevFramework.Northwind.MvcAngularUI\obj\Debug\DevFramework.Northwind.MvcAngularUI.dll
+C:\Projects\DevFramework-4\DevFramework 4\DevFramework\DevFramework.Northwind.MvcAngularUI\obj\Debug\DevFramework.Northwind.MvcAngularUI.pdb
+E:\AspectOriantedArchitecture\DevFramework\DevFramework\DevFramework.Northwind.MvcAngularUI\bin\roslyn\csc.exe
+E:\AspectOriantedArchitecture\DevFramework\DevFramework\DevFramework.Northwind.MvcAngularUI\bin\roslyn\csc.exe.config
+E:\AspectOriantedArchitecture\DevFramework\DevFramework\DevFramework.Northwind.MvcAngularUI\bin\roslyn\csc.rsp
+E:\AspectOriantedArchitecture\DevFramework\DevFramework\DevFramework.Northwind.MvcAngularUI\bin\roslyn\csi.exe
+E:\AspectOriantedArchitecture\DevFramework\DevFramework\DevFramework.Northwind.MvcAngularUI\bin\roslyn\csi.rsp
+E:\AspectOriantedArchitecture\DevFramework\DevFramework\DevFramework.Northwind.MvcAngularUI\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\AspectOriantedArchitecture\DevFramework\DevFramework\DevFramework.Northwind.MvcAngularUI\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\AspectOriantedArchitecture\DevFramework\DevFramework\DevFramework.Northwind.MvcAngularUI\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+E:\AspectOriantedArchitecture\DevFramework\DevFramework\DevFramework.Northwind.MvcAngularUI\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\AspectOriantedArchitecture\DevFramework\DevFramework\DevFramework.Northwind.MvcAngularUI\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+E:\AspectOriantedArchitecture\DevFramework\DevFramework\DevFramework.Northwind.MvcAngularUI\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\AspectOriantedArchitecture\DevFramework\DevFramework\DevFramework.Northwind.MvcAngularUI\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\AspectOriantedArchitecture\DevFramework\DevFramework\DevFramework.Northwind.MvcAngularUI\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+E:\AspectOriantedArchitecture\DevFramework\DevFramework\DevFramework.Northwind.MvcAngularUI\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+E:\AspectOriantedArchitecture\DevFramework\DevFramework\DevFramework.Northwind.MvcAngularUI\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\AspectOriantedArchitecture\DevFramework\DevFramework\DevFramework.Northwind.MvcAngularUI\bin\roslyn\System.AppContext.dll
+E:\AspectOriantedArchitecture\DevFramework\DevFramework\DevFramework.Northwind.MvcAngularUI\bin\roslyn\System.Collections.Immutable.dll
+E:\AspectOriantedArchitecture\DevFramework\DevFramework\DevFramework.Northwind.MvcAngularUI\bin\roslyn\System.Diagnostics.StackTrace.dll
+E:\AspectOriantedArchitecture\DevFramework\DevFramework\DevFramework.Northwind.MvcAngularUI\bin\roslyn\System.IO.FileSystem.dll
+E:\AspectOriantedArchitecture\DevFramework\DevFramework\DevFramework.Northwind.MvcAngularUI\bin\roslyn\System.IO.FileSystem.Primitives.dll
+E:\AspectOriantedArchitecture\DevFramework\DevFramework\DevFramework.Northwind.MvcAngularUI\bin\roslyn\System.Reflection.Metadata.dll
+E:\AspectOriantedArchitecture\DevFramework\DevFramework\DevFramework.Northwind.MvcAngularUI\bin\roslyn\vbc.exe
+E:\AspectOriantedArchitecture\DevFramework\DevFramework\DevFramework.Northwind.MvcAngularUI\bin\roslyn\vbc.exe.config
+E:\AspectOriantedArchitecture\DevFramework\DevFramework\DevFramework.Northwind.MvcAngularUI\bin\roslyn\vbc.rsp
+E:\AspectOriantedArchitecture\DevFramework\DevFramework\DevFramework.Northwind.MvcAngularUI\bin\roslyn\VBCSCompiler.exe
+E:\AspectOriantedArchitecture\DevFramework\DevFramework\DevFramework.Northwind.MvcAngularUI\bin\roslyn\VBCSCompiler.exe.config
+E:\AspectOriantedArchitecture\DevFramework\DevFramework\DevFramework.Northwind.MvcAngularUI\bin\DevFramework.Northwind.MvcAngularUI.dll.config
+E:\AspectOriantedArchitecture\DevFramework\DevFramework\DevFramework.Northwind.MvcAngularUI\bin\DevFramework.Northwind.MvcAngularUI.dll
+E:\AspectOriantedArchitecture\DevFramework\DevFramework\DevFramework.Northwind.MvcAngularUI\bin\DevFramework.Northwind.MvcAngularUI.pdb
+E:\AspectOriantedArchitecture\DevFramework\DevFramework\DevFramework.Northwind.MvcAngularUI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\AspectOriantedArchitecture\DevFramework\DevFramework\DevFramework.Northwind.MvcAngularUI\bin\Microsoft.Web.Infrastructure.dll
+E:\AspectOriantedArchitecture\DevFramework\DevFramework\DevFramework.Northwind.MvcAngularUI\bin\System.Web.Helpers.dll
+E:\AspectOriantedArchitecture\DevFramework\DevFramework\DevFramework.Northwind.MvcAngularUI\bin\System.Web.Mvc.dll
+E:\AspectOriantedArchitecture\DevFramework\DevFramework\DevFramework.Northwind.MvcAngularUI\bin\System.Web.Razor.dll
+E:\AspectOriantedArchitecture\DevFramework\DevFramework\DevFramework.Northwind.MvcAngularUI\bin\System.Web.Webpages.Deployment.dll
+E:\AspectOriantedArchitecture\DevFramework\DevFramework\DevFramework.Northwind.MvcAngularUI\bin\System.Web.Webpages.dll
+E:\AspectOriantedArchitecture\DevFramework\DevFramework\DevFramework.Northwind.MvcAngularUI\bin\System.Web.Webpages.Razor.dll
+E:\AspectOriantedArchitecture\DevFramework\DevFramework\DevFramework.Northwind.MvcAngularUI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\AspectOriantedArchitecture\DevFramework\DevFramework\DevFramework.Northwind.MvcAngularUI\bin\System.Web.Razor.xml
+E:\AspectOriantedArchitecture\DevFramework\DevFramework\DevFramework.Northwind.MvcAngularUI\bin\System.Web.Webpages.xml
+E:\AspectOriantedArchitecture\DevFramework\DevFramework\DevFramework.Northwind.MvcAngularUI\bin\System.Web.Webpages.Deployment.xml
+E:\AspectOriantedArchitecture\DevFramework\DevFramework\DevFramework.Northwind.MvcAngularUI\bin\System.Web.Webpages.Razor.xml
+E:\AspectOriantedArchitecture\DevFramework\DevFramework\DevFramework.Northwind.MvcAngularUI\bin\System.Web.Helpers.xml
+E:\AspectOriantedArchitecture\DevFramework\DevFramework\DevFramework.Northwind.MvcAngularUI\bin\System.Web.Mvc.xml
+E:\AspectOriantedArchitecture\DevFramework\DevFramework\DevFramework.Northwind.MvcAngularUI\obj\Debug\DevFramework.Northwind.MvcAngularUI.csproj.CoreCompileInputs.cache
+E:\AspectOriantedArchitecture\DevFramework\DevFramework\DevFramework.Northwind.MvcAngularUI\obj\Debug\DevFramework.Northwind.MvcAngularUI.csproj.CopyComplete
+E:\AspectOriantedArchitecture\DevFramework\DevFramework\DevFramework.Northwind.MvcAngularUI\obj\Debug\DevFramework.Northwind.MvcAngularUI.dll
+E:\AspectOriantedArchitecture\DevFramework\DevFramework\DevFramework.Northwind.MvcAngularUI\obj\Debug\DevFramework.Northwind.MvcAngularUI.pdb

@@ -1,0 +1,302 @@
+c:\users\engin\documents\visual studio 2015\Projects\DevFramework\DevFramework.Northwind.WebApi\bin\ApplicationInsights.config
+c:\users\engin\documents\visual studio 2015\Projects\DevFramework\DevFramework.Northwind.WebApi\bin\roslyn\csc.exe
+c:\users\engin\documents\visual studio 2015\Projects\DevFramework\DevFramework.Northwind.WebApi\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+c:\users\engin\documents\visual studio 2015\Projects\DevFramework\DevFramework.Northwind.WebApi\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+c:\users\engin\documents\visual studio 2015\Projects\DevFramework\DevFramework.Northwind.WebApi\bin\roslyn\Microsoft.CodeAnalysis.dll
+c:\users\engin\documents\visual studio 2015\Projects\DevFramework\DevFramework.Northwind.WebApi\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+c:\users\engin\documents\visual studio 2015\Projects\DevFramework\DevFramework.Northwind.WebApi\bin\roslyn\Microsoft.CSharp.Core.targets
+c:\users\engin\documents\visual studio 2015\Projects\DevFramework\DevFramework.Northwind.WebApi\bin\roslyn\Microsoft.VisualBasic.Core.targets
+c:\users\engin\documents\visual studio 2015\Projects\DevFramework\DevFramework.Northwind.WebApi\bin\roslyn\System.Collections.Immutable.dll
+c:\users\engin\documents\visual studio 2015\Projects\DevFramework\DevFramework.Northwind.WebApi\bin\roslyn\System.Reflection.Metadata.dll
+c:\users\engin\documents\visual studio 2015\Projects\DevFramework\DevFramework.Northwind.WebApi\bin\roslyn\vbc.exe
+c:\users\engin\documents\visual studio 2015\Projects\DevFramework\DevFramework.Northwind.WebApi\bin\roslyn\VBCSCompiler.exe
+c:\users\engin\documents\visual studio 2015\Projects\DevFramework\DevFramework.Northwind.WebApi\bin\roslyn\VBCSCompiler.exe.config
+c:\users\engin\documents\visual studio 2015\Projects\DevFramework\DevFramework.Northwind.WebApi\bin\DevFramework.Northwind.WebApi.dll.config
+c:\users\engin\documents\visual studio 2015\Projects\DevFramework\DevFramework.Northwind.WebApi\bin\DevFramework.Northwind.WebApi.dll
+c:\users\engin\documents\visual studio 2015\Projects\DevFramework\DevFramework.Northwind.WebApi\bin\DevFramework.Northwind.WebApi.pdb
+c:\users\engin\documents\visual studio 2015\Projects\DevFramework\DevFramework.Northwind.WebApi\bin\Microsoft.AI.Agent.Intercept.dll
+c:\users\engin\documents\visual studio 2015\Projects\DevFramework\DevFramework.Northwind.WebApi\bin\Microsoft.AI.DependencyCollector.dll
+c:\users\engin\documents\visual studio 2015\Projects\DevFramework\DevFramework.Northwind.WebApi\bin\Microsoft.AI.PerfCounterCollector.dll
+c:\users\engin\documents\visual studio 2015\Projects\DevFramework\DevFramework.Northwind.WebApi\bin\Microsoft.AI.ServerTelemetryChannel.dll
+c:\users\engin\documents\visual studio 2015\Projects\DevFramework\DevFramework.Northwind.WebApi\bin\Microsoft.AI.Web.dll
+c:\users\engin\documents\visual studio 2015\Projects\DevFramework\DevFramework.Northwind.WebApi\bin\Microsoft.AI.WindowsServer.dll
+c:\users\engin\documents\visual studio 2015\Projects\DevFramework\DevFramework.Northwind.WebApi\bin\Microsoft.ApplicationInsights.dll
+c:\users\engin\documents\visual studio 2015\Projects\DevFramework\DevFramework.Northwind.WebApi\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+c:\users\engin\documents\visual studio 2015\Projects\DevFramework\DevFramework.Northwind.WebApi\bin\Newtonsoft.Json.dll
+c:\users\engin\documents\visual studio 2015\Projects\DevFramework\DevFramework.Northwind.WebApi\bin\System.Net.Http.Formatting.dll
+c:\users\engin\documents\visual studio 2015\Projects\DevFramework\DevFramework.Northwind.WebApi\bin\System.Web.Http.dll
+c:\users\engin\documents\visual studio 2015\Projects\DevFramework\DevFramework.Northwind.WebApi\bin\System.Web.Http.WebHost.dll
+c:\users\engin\documents\visual studio 2015\Projects\DevFramework\DevFramework.Northwind.WebApi\bin\Microsoft.AI.DependencyCollector.xml
+c:\users\engin\documents\visual studio 2015\Projects\DevFramework\DevFramework.Northwind.WebApi\bin\Microsoft.AI.ServerTelemetryChannel.xml
+c:\users\engin\documents\visual studio 2015\Projects\DevFramework\DevFramework.Northwind.WebApi\bin\Microsoft.AI.Web.xml
+c:\users\engin\documents\visual studio 2015\Projects\DevFramework\DevFramework.Northwind.WebApi\bin\Microsoft.AI.WindowsServer.xml
+c:\users\engin\documents\visual studio 2015\Projects\DevFramework\DevFramework.Northwind.WebApi\bin\Microsoft.ApplicationInsights.xml
+c:\users\engin\documents\visual studio 2015\Projects\DevFramework\DevFramework.Northwind.WebApi\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+c:\users\engin\documents\visual studio 2015\Projects\DevFramework\DevFramework.Northwind.WebApi\bin\Newtonsoft.Json.xml
+c:\users\engin\documents\visual studio 2015\Projects\DevFramework\DevFramework.Northwind.WebApi\bin\System.Net.Http.Formatting.xml
+c:\users\engin\documents\visual studio 2015\Projects\DevFramework\DevFramework.Northwind.WebApi\bin\System.Web.Http.xml
+c:\users\engin\documents\visual studio 2015\Projects\DevFramework\DevFramework.Northwind.WebApi\bin\System.Web.Http.WebHost.xml
+c:\users\engin\documents\visual studio 2015\Projects\DevFramework\DevFramework.Northwind.WebApi\obj\Debug\DevFramework.Northwind.WebApi.csprojResolveAssemblyReference.cache
+c:\users\engin\documents\visual studio 2015\Projects\DevFramework\DevFramework.Northwind.WebApi\obj\Debug\DevFramework.Northwind.WebApi.dll
+c:\users\engin\documents\visual studio 2015\Projects\DevFramework\DevFramework.Northwind.WebApi\obj\Debug\DevFramework.Northwind.WebApi.pdb
+D:\2017\Projeler\VS.Net\DevFramework\DevFramework.Northwind.WebApi\bin\ApplicationInsights.config
+D:\2017\Projeler\VS.Net\DevFramework\DevFramework.Northwind.WebApi\bin\roslyn\csc.exe
+D:\2017\Projeler\VS.Net\DevFramework\DevFramework.Northwind.WebApi\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\2017\Projeler\VS.Net\DevFramework\DevFramework.Northwind.WebApi\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\2017\Projeler\VS.Net\DevFramework\DevFramework.Northwind.WebApi\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\2017\Projeler\VS.Net\DevFramework\DevFramework.Northwind.WebApi\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\2017\Projeler\VS.Net\DevFramework\DevFramework.Northwind.WebApi\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\2017\Projeler\VS.Net\DevFramework\DevFramework.Northwind.WebApi\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\2017\Projeler\VS.Net\DevFramework\DevFramework.Northwind.WebApi\bin\roslyn\System.Collections.Immutable.dll
+D:\2017\Projeler\VS.Net\DevFramework\DevFramework.Northwind.WebApi\bin\roslyn\System.Reflection.Metadata.dll
+D:\2017\Projeler\VS.Net\DevFramework\DevFramework.Northwind.WebApi\bin\roslyn\vbc.exe
+D:\2017\Projeler\VS.Net\DevFramework\DevFramework.Northwind.WebApi\bin\roslyn\VBCSCompiler.exe
+D:\2017\Projeler\VS.Net\DevFramework\DevFramework.Northwind.WebApi\bin\roslyn\VBCSCompiler.exe.config
+D:\2017\Projeler\VS.Net\DevFramework\DevFramework.Northwind.WebApi\bin\DevFramework.Northwind.WebApi.dll.config
+D:\2017\Projeler\VS.Net\DevFramework\DevFramework.Northwind.WebApi\bin\DevFramework.Northwind.WebApi.dll
+D:\2017\Projeler\VS.Net\DevFramework\DevFramework.Northwind.WebApi\bin\DevFramework.Northwind.WebApi.pdb
+D:\2017\Projeler\VS.Net\DevFramework\DevFramework.Northwind.WebApi\bin\Microsoft.AI.Agent.Intercept.dll
+D:\2017\Projeler\VS.Net\DevFramework\DevFramework.Northwind.WebApi\bin\Microsoft.AI.DependencyCollector.dll
+D:\2017\Projeler\VS.Net\DevFramework\DevFramework.Northwind.WebApi\bin\Microsoft.AI.PerfCounterCollector.dll
+D:\2017\Projeler\VS.Net\DevFramework\DevFramework.Northwind.WebApi\bin\Microsoft.AI.ServerTelemetryChannel.dll
+D:\2017\Projeler\VS.Net\DevFramework\DevFramework.Northwind.WebApi\bin\Microsoft.AI.Web.dll
+D:\2017\Projeler\VS.Net\DevFramework\DevFramework.Northwind.WebApi\bin\Microsoft.AI.WindowsServer.dll
+D:\2017\Projeler\VS.Net\DevFramework\DevFramework.Northwind.WebApi\bin\Microsoft.ApplicationInsights.dll
+D:\2017\Projeler\VS.Net\DevFramework\DevFramework.Northwind.WebApi\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\2017\Projeler\VS.Net\DevFramework\DevFramework.Northwind.WebApi\bin\Newtonsoft.Json.dll
+D:\2017\Projeler\VS.Net\DevFramework\DevFramework.Northwind.WebApi\bin\System.Net.Http.Formatting.dll
+D:\2017\Projeler\VS.Net\DevFramework\DevFramework.Northwind.WebApi\bin\System.Web.Http.dll
+D:\2017\Projeler\VS.Net\DevFramework\DevFramework.Northwind.WebApi\bin\System.Web.Http.WebHost.dll
+D:\2017\Projeler\VS.Net\DevFramework\DevFramework.Northwind.WebApi\bin\Microsoft.AI.DependencyCollector.xml
+D:\2017\Projeler\VS.Net\DevFramework\DevFramework.Northwind.WebApi\bin\Microsoft.AI.ServerTelemetryChannel.xml
+D:\2017\Projeler\VS.Net\DevFramework\DevFramework.Northwind.WebApi\bin\Microsoft.AI.Web.xml
+D:\2017\Projeler\VS.Net\DevFramework\DevFramework.Northwind.WebApi\bin\Microsoft.AI.WindowsServer.xml
+D:\2017\Projeler\VS.Net\DevFramework\DevFramework.Northwind.WebApi\bin\Microsoft.ApplicationInsights.xml
+D:\2017\Projeler\VS.Net\DevFramework\DevFramework.Northwind.WebApi\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\2017\Projeler\VS.Net\DevFramework\DevFramework.Northwind.WebApi\bin\Newtonsoft.Json.xml
+D:\2017\Projeler\VS.Net\DevFramework\DevFramework.Northwind.WebApi\bin\System.Net.Http.Formatting.xml
+D:\2017\Projeler\VS.Net\DevFramework\DevFramework.Northwind.WebApi\bin\System.Web.Http.xml
+D:\2017\Projeler\VS.Net\DevFramework\DevFramework.Northwind.WebApi\bin\System.Web.Http.WebHost.xml
+D:\2017\Projeler\VS.Net\DevFramework\DevFramework.Northwind.WebApi\obj\Debug\DevFramework.Northwind.WebApi.csprojResolveAssemblyReference.cache
+D:\2017\Projeler\VS.Net\DevFramework\DevFramework.Northwind.WebApi\obj\Debug\DevFramework.Northwind.WebApi.dll
+D:\2017\Projeler\VS.Net\DevFramework\DevFramework.Northwind.WebApi\obj\Debug\DevFramework.Northwind.WebApi.pdb
+C:\Projects\DevFramework-4\DevFramework 4\DevFramework\DevFramework.Northwind.WebApi\obj\Debug\DevFramework.Northwind.WebApi.csprojResolveAssemblyReference.cache
+C:\Projects\DevFramework-4\DevFramework 4\DevFramework\DevFramework.Northwind.WebApi\bin\ApplicationInsights.config
+C:\Projects\DevFramework-4\DevFramework 4\DevFramework\DevFramework.Northwind.WebApi\bin\roslyn\csc.exe
+C:\Projects\DevFramework-4\DevFramework 4\DevFramework\DevFramework.Northwind.WebApi\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Projects\DevFramework-4\DevFramework 4\DevFramework\DevFramework.Northwind.WebApi\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Projects\DevFramework-4\DevFramework 4\DevFramework\DevFramework.Northwind.WebApi\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Projects\DevFramework-4\DevFramework 4\DevFramework\DevFramework.Northwind.WebApi\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Projects\DevFramework-4\DevFramework 4\DevFramework\DevFramework.Northwind.WebApi\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Projects\DevFramework-4\DevFramework 4\DevFramework\DevFramework.Northwind.WebApi\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Projects\DevFramework-4\DevFramework 4\DevFramework\DevFramework.Northwind.WebApi\bin\roslyn\System.Collections.Immutable.dll
+C:\Projects\DevFramework-4\DevFramework 4\DevFramework\DevFramework.Northwind.WebApi\bin\roslyn\System.Reflection.Metadata.dll
+C:\Projects\DevFramework-4\DevFramework 4\DevFramework\DevFramework.Northwind.WebApi\bin\roslyn\vbc.exe
+C:\Projects\DevFramework-4\DevFramework 4\DevFramework\DevFramework.Northwind.WebApi\bin\roslyn\VBCSCompiler.exe
+C:\Projects\DevFramework-4\DevFramework 4\DevFramework\DevFramework.Northwind.WebApi\bin\roslyn\VBCSCompiler.exe.config
+C:\Projects\DevFramework-4\DevFramework 4\DevFramework\DevFramework.Northwind.WebApi\bin\DevFramework.Northwind.WebApi.dll.config
+C:\Projects\DevFramework-4\DevFramework 4\DevFramework\DevFramework.Northwind.WebApi\bin\DevFramework.Northwind.WebApi.dll
+C:\Projects\DevFramework-4\DevFramework 4\DevFramework\DevFramework.Northwind.WebApi\bin\DevFramework.Northwind.WebApi.pdb
+C:\Projects\DevFramework-4\DevFramework 4\DevFramework\DevFramework.Northwind.WebApi\bin\DevFramework.Northwind.Business.dll
+C:\Projects\DevFramework-4\DevFramework 4\DevFramework\DevFramework.Northwind.WebApi\bin\DevFramework.Northwind.Entities.dll
+C:\Projects\DevFramework-4\DevFramework 4\DevFramework\DevFramework.Northwind.WebApi\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Projects\DevFramework-4\DevFramework 4\DevFramework\DevFramework.Northwind.WebApi\bin\Microsoft.AI.DependencyCollector.dll
+C:\Projects\DevFramework-4\DevFramework 4\DevFramework\DevFramework.Northwind.WebApi\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Projects\DevFramework-4\DevFramework 4\DevFramework\DevFramework.Northwind.WebApi\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Projects\DevFramework-4\DevFramework 4\DevFramework\DevFramework.Northwind.WebApi\bin\Microsoft.AI.Web.dll
+C:\Projects\DevFramework-4\DevFramework 4\DevFramework\DevFramework.Northwind.WebApi\bin\Microsoft.AI.WindowsServer.dll
+C:\Projects\DevFramework-4\DevFramework 4\DevFramework\DevFramework.Northwind.WebApi\bin\Microsoft.ApplicationInsights.dll
+C:\Projects\DevFramework-4\DevFramework 4\DevFramework\DevFramework.Northwind.WebApi\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Projects\DevFramework-4\DevFramework 4\DevFramework\DevFramework.Northwind.WebApi\bin\Microsoft.Web.Infrastructure.dll
+C:\Projects\DevFramework-4\DevFramework 4\DevFramework\DevFramework.Northwind.WebApi\bin\Newtonsoft.Json.dll
+C:\Projects\DevFramework-4\DevFramework 4\DevFramework\DevFramework.Northwind.WebApi\bin\Ninject.dll
+C:\Projects\DevFramework-4\DevFramework 4\DevFramework\DevFramework.Northwind.WebApi\bin\Ninject.Web.Common.dll
+C:\Projects\DevFramework-4\DevFramework 4\DevFramework\DevFramework.Northwind.WebApi\bin\System.Net.Http.Formatting.dll
+C:\Projects\DevFramework-4\DevFramework 4\DevFramework\DevFramework.Northwind.WebApi\bin\System.Web.Http.dll
+C:\Projects\DevFramework-4\DevFramework 4\DevFramework\DevFramework.Northwind.WebApi\bin\System.Web.Http.WebHost.dll
+C:\Projects\DevFramework-4\DevFramework 4\DevFramework\DevFramework.Northwind.WebApi\bin\WebActivatorEx.dll
+C:\Projects\DevFramework-4\DevFramework 4\DevFramework\DevFramework.Northwind.WebApi\bin\FluentValidation.dll
+C:\Projects\DevFramework-4\DevFramework 4\DevFramework\DevFramework.Northwind.WebApi\bin\DevFramework.Northwind.DataAccess.dll
+C:\Projects\DevFramework-4\DevFramework 4\DevFramework\DevFramework.Northwind.WebApi\bin\PostSharp.dll
+C:\Projects\DevFramework-4\DevFramework 4\DevFramework\DevFramework.Northwind.WebApi\bin\DevFramework.Core.dll
+C:\Projects\DevFramework-4\DevFramework 4\DevFramework\DevFramework.Northwind.WebApi\bin\EntityFramework.dll
+C:\Projects\DevFramework-4\DevFramework 4\DevFramework\DevFramework.Northwind.WebApi\bin\NHibernate.dll
+C:\Projects\DevFramework-4\DevFramework 4\DevFramework\DevFramework.Northwind.WebApi\bin\FluentNHibernate.dll
+C:\Projects\DevFramework-4\DevFramework 4\DevFramework\DevFramework.Northwind.WebApi\bin\System.Web.Mvc.dll
+C:\Projects\DevFramework-4\DevFramework 4\DevFramework\DevFramework.Northwind.WebApi\bin\log4net.dll
+C:\Projects\DevFramework-4\DevFramework 4\DevFramework\DevFramework.Northwind.WebApi\bin\Iesi.Collections.dll
+C:\Projects\DevFramework-4\DevFramework 4\DevFramework\DevFramework.Northwind.WebApi\bin\System.Web.Razor.dll
+C:\Projects\DevFramework-4\DevFramework 4\DevFramework\DevFramework.Northwind.WebApi\bin\System.Web.WebPages.Razor.dll
+C:\Projects\DevFramework-4\DevFramework 4\DevFramework\DevFramework.Northwind.WebApi\bin\System.Web.WebPages.dll
+C:\Projects\DevFramework-4\DevFramework 4\DevFramework\DevFramework.Northwind.WebApi\bin\System.Web.WebPages.Deployment.dll
+C:\Projects\DevFramework-4\DevFramework 4\DevFramework\DevFramework.Northwind.WebApi\bin\DevFramework.Northwind.Business.pdb
+C:\Projects\DevFramework-4\DevFramework 4\DevFramework\DevFramework.Northwind.WebApi\bin\DevFramework.Northwind.Business.dll.config
+C:\Projects\DevFramework-4\DevFramework 4\DevFramework\DevFramework.Northwind.WebApi\bin\DevFramework.Northwind.Entities.pdb
+C:\Projects\DevFramework-4\DevFramework 4\DevFramework\DevFramework.Northwind.WebApi\bin\DevFramework.Northwind.Entities.dll.config
+C:\Projects\DevFramework-4\DevFramework 4\DevFramework\DevFramework.Northwind.WebApi\bin\Microsoft.AI.DependencyCollector.xml
+C:\Projects\DevFramework-4\DevFramework 4\DevFramework\DevFramework.Northwind.WebApi\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Projects\DevFramework-4\DevFramework 4\DevFramework\DevFramework.Northwind.WebApi\bin\Microsoft.AI.Web.xml
+C:\Projects\DevFramework-4\DevFramework 4\DevFramework\DevFramework.Northwind.WebApi\bin\Microsoft.AI.WindowsServer.xml
+C:\Projects\DevFramework-4\DevFramework 4\DevFramework\DevFramework.Northwind.WebApi\bin\Microsoft.ApplicationInsights.xml
+C:\Projects\DevFramework-4\DevFramework 4\DevFramework\DevFramework.Northwind.WebApi\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Projects\DevFramework-4\DevFramework 4\DevFramework\DevFramework.Northwind.WebApi\bin\Ninject.xml
+C:\Projects\DevFramework-4\DevFramework 4\DevFramework\DevFramework.Northwind.WebApi\bin\Ninject.Web.Common.xml
+C:\Projects\DevFramework-4\DevFramework 4\DevFramework\DevFramework.Northwind.WebApi\bin\Newtonsoft.Json.xml
+C:\Projects\DevFramework-4\DevFramework 4\DevFramework\DevFramework.Northwind.WebApi\bin\System.Net.Http.Formatting.xml
+C:\Projects\DevFramework-4\DevFramework 4\DevFramework\DevFramework.Northwind.WebApi\bin\System.Web.Http.xml
+C:\Projects\DevFramework-4\DevFramework 4\DevFramework\DevFramework.Northwind.WebApi\bin\System.Web.Http.WebHost.xml
+C:\Projects\DevFramework-4\DevFramework 4\DevFramework\DevFramework.Northwind.WebApi\bin\FluentValidation.pdb
+C:\Projects\DevFramework-4\DevFramework 4\DevFramework\DevFramework.Northwind.WebApi\bin\FluentValidation.xml
+C:\Projects\DevFramework-4\DevFramework 4\DevFramework\DevFramework.Northwind.WebApi\bin\DevFramework.Northwind.DataAccess.pdb
+C:\Projects\DevFramework-4\DevFramework 4\DevFramework\DevFramework.Northwind.WebApi\bin\DevFramework.Northwind.DataAccess.dll.config
+C:\Projects\DevFramework-4\DevFramework 4\DevFramework\DevFramework.Northwind.WebApi\bin\PostSharp.xml
+C:\Projects\DevFramework-4\DevFramework 4\DevFramework\DevFramework.Northwind.WebApi\bin\DevFramework.Core.pdb
+C:\Projects\DevFramework-4\DevFramework 4\DevFramework\DevFramework.Northwind.WebApi\bin\DevFramework.Core.dll.config
+C:\Projects\DevFramework-4\DevFramework 4\DevFramework\DevFramework.Northwind.WebApi\bin\EntityFramework.xml
+C:\Projects\DevFramework-4\DevFramework 4\DevFramework\DevFramework.Northwind.WebApi\bin\NHibernate.xml
+C:\Projects\DevFramework-4\DevFramework 4\DevFramework\DevFramework.Northwind.WebApi\bin\FluentNHibernate.pdb
+C:\Projects\DevFramework-4\DevFramework 4\DevFramework\DevFramework.Northwind.WebApi\bin\FluentNHibernate.xml
+C:\Projects\DevFramework-4\DevFramework 4\DevFramework\DevFramework.Northwind.WebApi\bin\System.Web.Mvc.xml
+C:\Projects\DevFramework-4\DevFramework 4\DevFramework\DevFramework.Northwind.WebApi\bin\log4net.xml
+C:\Projects\DevFramework-4\DevFramework 4\DevFramework\DevFramework.Northwind.WebApi\bin\Iesi.Collections.xml
+C:\Projects\DevFramework-4\DevFramework 4\DevFramework\DevFramework.Northwind.WebApi\bin\System.Web.Razor.xml
+C:\Projects\DevFramework-4\DevFramework 4\DevFramework\DevFramework.Northwind.WebApi\bin\System.Web.WebPages.Razor.xml
+C:\Projects\DevFramework-4\DevFramework 4\DevFramework\DevFramework.Northwind.WebApi\bin\System.Web.WebPages.xml
+C:\Projects\DevFramework-4\DevFramework 4\DevFramework\DevFramework.Northwind.WebApi\bin\System.Web.WebPages.Deployment.xml
+C:\Projects\DevFramework-4\DevFramework 4\DevFramework\DevFramework.Northwind.WebApi\bin\cs\FluentValidation.resources.dll
+C:\Projects\DevFramework-4\DevFramework 4\DevFramework\DevFramework.Northwind.WebApi\bin\da\FluentValidation.resources.dll
+C:\Projects\DevFramework-4\DevFramework 4\DevFramework\DevFramework.Northwind.WebApi\bin\de\FluentValidation.resources.dll
+C:\Projects\DevFramework-4\DevFramework 4\DevFramework\DevFramework.Northwind.WebApi\bin\es\FluentValidation.resources.dll
+C:\Projects\DevFramework-4\DevFramework 4\DevFramework\DevFramework.Northwind.WebApi\bin\fa\FluentValidation.resources.dll
+C:\Projects\DevFramework-4\DevFramework 4\DevFramework\DevFramework.Northwind.WebApi\bin\fi\FluentValidation.resources.dll
+C:\Projects\DevFramework-4\DevFramework 4\DevFramework\DevFramework.Northwind.WebApi\bin\fr\FluentValidation.resources.dll
+C:\Projects\DevFramework-4\DevFramework 4\DevFramework\DevFramework.Northwind.WebApi\bin\it\FluentValidation.resources.dll
+C:\Projects\DevFramework-4\DevFramework 4\DevFramework\DevFramework.Northwind.WebApi\bin\ko\FluentValidation.resources.dll
+C:\Projects\DevFramework-4\DevFramework 4\DevFramework\DevFramework.Northwind.WebApi\bin\mk\FluentValidation.resources.dll
+C:\Projects\DevFramework-4\DevFramework 4\DevFramework\DevFramework.Northwind.WebApi\bin\nl\FluentValidation.resources.dll
+C:\Projects\DevFramework-4\DevFramework 4\DevFramework\DevFramework.Northwind.WebApi\bin\pl\FluentValidation.resources.dll
+C:\Projects\DevFramework-4\DevFramework 4\DevFramework\DevFramework.Northwind.WebApi\bin\pt\FluentValidation.resources.dll
+C:\Projects\DevFramework-4\DevFramework 4\DevFramework\DevFramework.Northwind.WebApi\bin\ru\FluentValidation.resources.dll
+C:\Projects\DevFramework-4\DevFramework 4\DevFramework\DevFramework.Northwind.WebApi\bin\sv\FluentValidation.resources.dll
+C:\Projects\DevFramework-4\DevFramework 4\DevFramework\DevFramework.Northwind.WebApi\bin\tr\FluentValidation.resources.dll
+C:\Projects\DevFramework-4\DevFramework 4\DevFramework\DevFramework.Northwind.WebApi\bin\zh-CN\FluentValidation.resources.dll
+C:\Projects\DevFramework-4\DevFramework 4\DevFramework\DevFramework.Northwind.WebApi\obj\Debug\DevFramework.Northwind.WebApi.dll
+C:\Projects\DevFramework-4\DevFramework 4\DevFramework\DevFramework.Northwind.WebApi\obj\Debug\DevFramework.Northwind.WebApi.pdb
+C:\Projects\DevFramework-4\DevFramework 4\DevFramework\DevFramework.Northwind.WebApi\bin\Ninject.Web.Mvc.dll
+C:\Projects\DevFramework-4\DevFramework 4\DevFramework\DevFramework.Northwind.WebApi\bin\WebApiContrib.IoC.Ninject.dll
+C:\Projects\DevFramework-4\DevFramework 4\DevFramework\DevFramework.Northwind.WebApi\bin\Ninject.Web.Mvc.xml
+C:\Projects\DevFramework-4\DevFramework 4\DevFramework\DevFramework.Northwind.WebApi\bin\EntityFramework.SqlServer.dll
+C:\Projects\DevFramework-4\DevFramework 4\DevFramework\DevFramework.Northwind.WebApi\bin\EntityFramework.SqlServer.xml
+C:\Projects\DevFramework-4\DevFramework 4\DevFramework\DevFramework.Northwind.WebApi\bin\AutoMapper.dll
+C:\Projects\DevFramework-4\DevFramework 4\DevFramework\DevFramework.Northwind.WebApi\bin\AutoMapper.xml
+E:\AspectOriantedArchitecture\DevFramework\DevFramework\DevFramework.Northwind.WebApi\bin\ApplicationInsights.config
+E:\AspectOriantedArchitecture\DevFramework\DevFramework\DevFramework.Northwind.WebApi\bin\roslyn\csc.exe
+E:\AspectOriantedArchitecture\DevFramework\DevFramework\DevFramework.Northwind.WebApi\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\AspectOriantedArchitecture\DevFramework\DevFramework\DevFramework.Northwind.WebApi\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\AspectOriantedArchitecture\DevFramework\DevFramework\DevFramework.Northwind.WebApi\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\AspectOriantedArchitecture\DevFramework\DevFramework\DevFramework.Northwind.WebApi\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\AspectOriantedArchitecture\DevFramework\DevFramework\DevFramework.Northwind.WebApi\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\AspectOriantedArchitecture\DevFramework\DevFramework\DevFramework.Northwind.WebApi\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\AspectOriantedArchitecture\DevFramework\DevFramework\DevFramework.Northwind.WebApi\bin\roslyn\System.Collections.Immutable.dll
+E:\AspectOriantedArchitecture\DevFramework\DevFramework\DevFramework.Northwind.WebApi\bin\roslyn\System.Reflection.Metadata.dll
+E:\AspectOriantedArchitecture\DevFramework\DevFramework\DevFramework.Northwind.WebApi\bin\roslyn\vbc.exe
+E:\AspectOriantedArchitecture\DevFramework\DevFramework\DevFramework.Northwind.WebApi\bin\roslyn\VBCSCompiler.exe
+E:\AspectOriantedArchitecture\DevFramework\DevFramework\DevFramework.Northwind.WebApi\bin\roslyn\VBCSCompiler.exe.config
+E:\AspectOriantedArchitecture\DevFramework\DevFramework\DevFramework.Northwind.WebApi\bin\DevFramework.Northwind.WebApi.dll.config
+E:\AspectOriantedArchitecture\DevFramework\DevFramework\DevFramework.Northwind.WebApi\bin\DevFramework.Northwind.WebApi.dll
+E:\AspectOriantedArchitecture\DevFramework\DevFramework\DevFramework.Northwind.WebApi\bin\DevFramework.Northwind.WebApi.pdb
+E:\AspectOriantedArchitecture\DevFramework\DevFramework\DevFramework.Northwind.WebApi\bin\DevFramework.Northwind.Business.dll
+E:\AspectOriantedArchitecture\DevFramework\DevFramework\DevFramework.Northwind.WebApi\bin\DevFramework.Northwind.Entities.dll
+E:\AspectOriantedArchitecture\DevFramework\DevFramework\DevFramework.Northwind.WebApi\bin\EntityFramework.dll
+E:\AspectOriantedArchitecture\DevFramework\DevFramework\DevFramework.Northwind.WebApi\bin\EntityFramework.SqlServer.dll
+E:\AspectOriantedArchitecture\DevFramework\DevFramework\DevFramework.Northwind.WebApi\bin\Microsoft.AI.Agent.Intercept.dll
+E:\AspectOriantedArchitecture\DevFramework\DevFramework\DevFramework.Northwind.WebApi\bin\Microsoft.AI.DependencyCollector.dll
+E:\AspectOriantedArchitecture\DevFramework\DevFramework\DevFramework.Northwind.WebApi\bin\Microsoft.AI.PerfCounterCollector.dll
+E:\AspectOriantedArchitecture\DevFramework\DevFramework\DevFramework.Northwind.WebApi\bin\Microsoft.AI.ServerTelemetryChannel.dll
+E:\AspectOriantedArchitecture\DevFramework\DevFramework\DevFramework.Northwind.WebApi\bin\Microsoft.AI.Web.dll
+E:\AspectOriantedArchitecture\DevFramework\DevFramework\DevFramework.Northwind.WebApi\bin\Microsoft.AI.WindowsServer.dll
+E:\AspectOriantedArchitecture\DevFramework\DevFramework\DevFramework.Northwind.WebApi\bin\Microsoft.ApplicationInsights.dll
+E:\AspectOriantedArchitecture\DevFramework\DevFramework\DevFramework.Northwind.WebApi\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\AspectOriantedArchitecture\DevFramework\DevFramework\DevFramework.Northwind.WebApi\bin\Microsoft.Web.Infrastructure.dll
+E:\AspectOriantedArchitecture\DevFramework\DevFramework\DevFramework.Northwind.WebApi\bin\Newtonsoft.Json.dll
+E:\AspectOriantedArchitecture\DevFramework\DevFramework\DevFramework.Northwind.WebApi\bin\Ninject.dll
+E:\AspectOriantedArchitecture\DevFramework\DevFramework\DevFramework.Northwind.WebApi\bin\Ninject.Web.Common.dll
+E:\AspectOriantedArchitecture\DevFramework\DevFramework\DevFramework.Northwind.WebApi\bin\Ninject.Web.Mvc.dll
+E:\AspectOriantedArchitecture\DevFramework\DevFramework\DevFramework.Northwind.WebApi\bin\System.Net.Http.Formatting.dll
+E:\AspectOriantedArchitecture\DevFramework\DevFramework\DevFramework.Northwind.WebApi\bin\System.Web.Http.dll
+E:\AspectOriantedArchitecture\DevFramework\DevFramework\DevFramework.Northwind.WebApi\bin\System.Web.Http.WebHost.dll
+E:\AspectOriantedArchitecture\DevFramework\DevFramework\DevFramework.Northwind.WebApi\bin\WebActivatorEx.dll
+E:\AspectOriantedArchitecture\DevFramework\DevFramework\DevFramework.Northwind.WebApi\bin\WebApiContrib.IoC.Ninject.dll
+E:\AspectOriantedArchitecture\DevFramework\DevFramework\DevFramework.Northwind.WebApi\bin\FluentValidation.dll
+E:\AspectOriantedArchitecture\DevFramework\DevFramework\DevFramework.Northwind.WebApi\bin\AutoMapper.dll
+E:\AspectOriantedArchitecture\DevFramework\DevFramework\DevFramework.Northwind.WebApi\bin\DevFramework.Northwind.DataAccess.dll
+E:\AspectOriantedArchitecture\DevFramework\DevFramework\DevFramework.Northwind.WebApi\bin\PostSharp.dll
+E:\AspectOriantedArchitecture\DevFramework\DevFramework\DevFramework.Northwind.WebApi\bin\DevFramework.Core.dll
+E:\AspectOriantedArchitecture\DevFramework\DevFramework\DevFramework.Northwind.WebApi\bin\System.Web.Mvc.dll
+E:\AspectOriantedArchitecture\DevFramework\DevFramework\DevFramework.Northwind.WebApi\bin\NHibernate.dll
+E:\AspectOriantedArchitecture\DevFramework\DevFramework\DevFramework.Northwind.WebApi\bin\FluentNHibernate.dll
+E:\AspectOriantedArchitecture\DevFramework\DevFramework\DevFramework.Northwind.WebApi\bin\log4net.dll
+E:\AspectOriantedArchitecture\DevFramework\DevFramework\DevFramework.Northwind.WebApi\bin\System.Web.Razor.dll
+E:\AspectOriantedArchitecture\DevFramework\DevFramework\DevFramework.Northwind.WebApi\bin\System.Web.WebPages.Razor.dll
+E:\AspectOriantedArchitecture\DevFramework\DevFramework\DevFramework.Northwind.WebApi\bin\System.Web.WebPages.dll
+E:\AspectOriantedArchitecture\DevFramework\DevFramework\DevFramework.Northwind.WebApi\bin\Iesi.Collections.dll
+E:\AspectOriantedArchitecture\DevFramework\DevFramework\DevFramework.Northwind.WebApi\bin\System.Web.WebPages.Deployment.dll
+E:\AspectOriantedArchitecture\DevFramework\DevFramework\DevFramework.Northwind.WebApi\bin\DevFramework.Northwind.Business.pdb
+E:\AspectOriantedArchitecture\DevFramework\DevFramework\DevFramework.Northwind.WebApi\bin\DevFramework.Northwind.Business.dll.config
+E:\AspectOriantedArchitecture\DevFramework\DevFramework\DevFramework.Northwind.WebApi\bin\DevFramework.Northwind.Entities.pdb
+E:\AspectOriantedArchitecture\DevFramework\DevFramework\DevFramework.Northwind.WebApi\bin\DevFramework.Northwind.Entities.dll.config
+E:\AspectOriantedArchitecture\DevFramework\DevFramework\DevFramework.Northwind.WebApi\bin\EntityFramework.xml
+E:\AspectOriantedArchitecture\DevFramework\DevFramework\DevFramework.Northwind.WebApi\bin\EntityFramework.SqlServer.xml
+E:\AspectOriantedArchitecture\DevFramework\DevFramework\DevFramework.Northwind.WebApi\bin\Microsoft.AI.DependencyCollector.xml
+E:\AspectOriantedArchitecture\DevFramework\DevFramework\DevFramework.Northwind.WebApi\bin\Microsoft.AI.ServerTelemetryChannel.xml
+E:\AspectOriantedArchitecture\DevFramework\DevFramework\DevFramework.Northwind.WebApi\bin\Microsoft.AI.Web.xml
+E:\AspectOriantedArchitecture\DevFramework\DevFramework\DevFramework.Northwind.WebApi\bin\Microsoft.AI.WindowsServer.xml
+E:\AspectOriantedArchitecture\DevFramework\DevFramework\DevFramework.Northwind.WebApi\bin\Microsoft.ApplicationInsights.xml
+E:\AspectOriantedArchitecture\DevFramework\DevFramework\DevFramework.Northwind.WebApi\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\AspectOriantedArchitecture\DevFramework\DevFramework\DevFramework.Northwind.WebApi\bin\Ninject.xml
+E:\AspectOriantedArchitecture\DevFramework\DevFramework\DevFramework.Northwind.WebApi\bin\Ninject.Web.Common.xml
+E:\AspectOriantedArchitecture\DevFramework\DevFramework\DevFramework.Northwind.WebApi\bin\Ninject.Web.Mvc.xml
+E:\AspectOriantedArchitecture\DevFramework\DevFramework\DevFramework.Northwind.WebApi\bin\Newtonsoft.Json.xml
+E:\AspectOriantedArchitecture\DevFramework\DevFramework\DevFramework.Northwind.WebApi\bin\System.Net.Http.Formatting.xml
+E:\AspectOriantedArchitecture\DevFramework\DevFramework\DevFramework.Northwind.WebApi\bin\System.Web.Http.xml
+E:\AspectOriantedArchitecture\DevFramework\DevFramework\DevFramework.Northwind.WebApi\bin\System.Web.Http.WebHost.xml
+E:\AspectOriantedArchitecture\DevFramework\DevFramework\DevFramework.Northwind.WebApi\bin\FluentValidation.pdb
+E:\AspectOriantedArchitecture\DevFramework\DevFramework\DevFramework.Northwind.WebApi\bin\FluentValidation.xml
+E:\AspectOriantedArchitecture\DevFramework\DevFramework\DevFramework.Northwind.WebApi\bin\AutoMapper.xml
+E:\AspectOriantedArchitecture\DevFramework\DevFramework\DevFramework.Northwind.WebApi\bin\DevFramework.Northwind.DataAccess.pdb
+E:\AspectOriantedArchitecture\DevFramework\DevFramework\DevFramework.Northwind.WebApi\bin\DevFramework.Northwind.DataAccess.dll.config
+E:\AspectOriantedArchitecture\DevFramework\DevFramework\DevFramework.Northwind.WebApi\bin\PostSharp.xml
+E:\AspectOriantedArchitecture\DevFramework\DevFramework\DevFramework.Northwind.WebApi\bin\DevFramework.Core.pdb
+E:\AspectOriantedArchitecture\DevFramework\DevFramework\DevFramework.Northwind.WebApi\bin\DevFramework.Core.dll.config
+E:\AspectOriantedArchitecture\DevFramework\DevFramework\DevFramework.Northwind.WebApi\bin\System.Web.Mvc.xml
+E:\AspectOriantedArchitecture\DevFramework\DevFramework\DevFramework.Northwind.WebApi\bin\NHibernate.xml
+E:\AspectOriantedArchitecture\DevFramework\DevFramework\DevFramework.Northwind.WebApi\bin\FluentNHibernate.pdb
+E:\AspectOriantedArchitecture\DevFramework\DevFramework\DevFramework.Northwind.WebApi\bin\FluentNHibernate.xml
+E:\AspectOriantedArchitecture\DevFramework\DevFramework\DevFramework.Northwind.WebApi\bin\log4net.xml
+E:\AspectOriantedArchitecture\DevFramework\DevFramework\DevFramework.Northwind.WebApi\bin\System.Web.Razor.xml
+E:\AspectOriantedArchitecture\DevFramework\DevFramework\DevFramework.Northwind.WebApi\bin\System.Web.WebPages.Razor.xml
+E:\AspectOriantedArchitecture\DevFramework\DevFramework\DevFramework.Northwind.WebApi\bin\System.Web.WebPages.xml
+E:\AspectOriantedArchitecture\DevFramework\DevFramework\DevFramework.Northwind.WebApi\bin\Iesi.Collections.xml
+E:\AspectOriantedArchitecture\DevFramework\DevFramework\DevFramework.Northwind.WebApi\bin\System.Web.WebPages.Deployment.xml
+E:\AspectOriantedArchitecture\DevFramework\DevFramework\DevFramework.Northwind.WebApi\bin\cs\FluentValidation.resources.dll
+E:\AspectOriantedArchitecture\DevFramework\DevFramework\DevFramework.Northwind.WebApi\bin\da\FluentValidation.resources.dll
+E:\AspectOriantedArchitecture\DevFramework\DevFramework\DevFramework.Northwind.WebApi\bin\de\FluentValidation.resources.dll
+E:\AspectOriantedArchitecture\DevFramework\DevFramework\DevFramework.Northwind.WebApi\bin\es\FluentValidation.resources.dll
+E:\AspectOriantedArchitecture\DevFramework\DevFramework\DevFramework.Northwind.WebApi\bin\fa\FluentValidation.resources.dll
+E:\AspectOriantedArchitecture\DevFramework\DevFramework\DevFramework.Northwind.WebApi\bin\fi\FluentValidation.resources.dll
+E:\AspectOriantedArchitecture\DevFramework\DevFramework\DevFramework.Northwind.WebApi\bin\fr\FluentValidation.resources.dll
+E:\AspectOriantedArchitecture\DevFramework\DevFramework\DevFramework.Northwind.WebApi\bin\it\FluentValidation.resources.dll
+E:\AspectOriantedArchitecture\DevFramework\DevFramework\DevFramework.Northwind.WebApi\bin\ko\FluentValidation.resources.dll
+E:\AspectOriantedArchitecture\DevFramework\DevFramework\DevFramework.Northwind.WebApi\bin\mk\FluentValidation.resources.dll
+E:\AspectOriantedArchitecture\DevFramework\DevFramework\DevFramework.Northwind.WebApi\bin\nl\FluentValidation.resources.dll
+E:\AspectOriantedArchitecture\DevFramework\DevFramework\DevFramework.Northwind.WebApi\bin\pl\FluentValidation.resources.dll
+E:\AspectOriantedArchitecture\DevFramework\DevFramework\DevFramework.Northwind.WebApi\bin\pt\FluentValidation.resources.dll
+E:\AspectOriantedArchitecture\DevFramework\DevFramework\DevFramework.Northwind.WebApi\bin\ru\FluentValidation.resources.dll
+E:\AspectOriantedArchitecture\DevFramework\DevFramework\DevFramework.Northwind.WebApi\bin\sv\FluentValidation.resources.dll
+E:\AspectOriantedArchitecture\DevFramework\DevFramework\DevFramework.Northwind.WebApi\bin\tr\FluentValidation.resources.dll
+E:\AspectOriantedArchitecture\DevFramework\DevFramework\DevFramework.Northwind.WebApi\bin\zh-CN\FluentValidation.resources.dll
+E:\AspectOriantedArchitecture\DevFramework\DevFramework\DevFramework.Northwind.WebApi\obj\Debug\DevFramework.Northwind.WebApi.csprojAssemblyReference.cache
+E:\AspectOriantedArchitecture\DevFramework\DevFramework\DevFramework.Northwind.WebApi\obj\Debug\DevFramework.Northwind.WebApi.csproj.CoreCompileInputs.cache
+E:\AspectOriantedArchitecture\DevFramework\DevFramework\DevFramework.Northwind.WebApi\obj\Debug\DevFramework.Northwind.WebApi.csproj.CopyComplete
+E:\AspectOriantedArchitecture\DevFramework\DevFramework\DevFramework.Northwind.WebApi\obj\Debug\DevFramework.Northwind.WebApi.dll
+E:\AspectOriantedArchitecture\DevFramework\DevFramework\DevFramework.Northwind.WebApi\obj\Debug\DevFramework.Northwind.WebApi.pdb
